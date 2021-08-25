@@ -1,11 +1,7 @@
 ### Hi there, I'm Joaquin 👋!
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" alt="Joaquín Gatica's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=joaquingatica&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark&hide=contribs" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaquingatica&layout=compact&exclude_repo=imladris-calendar,notie-imberisseo&theme=github_dark" />
-</a>
+<img align="center" alt="Joaquín Gatica's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=joaquingatica&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark&hide=contribs" />
+<img align="center" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaquingatica&layout=compact&exclude_repo=imladris-calendar,notie-imberisseo&theme=github_dark" />
 
 <!--
 **joaquingatica/joaquingatica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
